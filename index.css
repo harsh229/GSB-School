@@ -1,7 +1,11 @@
 div.col-lg-3.col-md-6.mb-5{
 margin-left: 3em !important;
 }
-
+.history{
+  line-height: 2 !important ;
+  letter-spacing: 1.5px !important;
+  word-spacing: 1.5px !important;
+}
 
 :root {
   --blue: #007bff;
